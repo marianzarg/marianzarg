@@ -7,9 +7,7 @@ I'm Mariano, currently working as a Platform Engineer.
 
 ## Certifications
 
-<img src="./img/Terraform-003-Badge-300x300.png" width=100 height=100>
-
-<img src="./img/AZ900-Azure-Fundamentals-logo-300x300.png" width=100>
+<img src="./img/Terraform-003-Badge-300x300.png" width=100 height=100> <img src="./img/AZ900-Azure-Fundamentals-logo-300x300.png" width=100>
 
 <!--
 **marianzarg/marianzarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
