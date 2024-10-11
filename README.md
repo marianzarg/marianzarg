@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+<img src="./img/Terraform-003-Badge-300x300.png" width=100 height=100>
+
 <!--
 **marianzarg/marianzarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
