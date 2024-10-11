@@ -1,6 +1,14 @@
-## Hi there 👋
+# Hi there 👋
+
+I'm Mariano, a Platform Engineer working with Terrafom, Azure and Azure DevOps.
+
 
 <!--
+## Stack
+
+<img src="./img/Terraform-003-Badge-300x300.png" width=50> <img src="./img/AZ900-Azure-Fundamentals-logo-300x300.png" width=50>
+
+
 **marianzarg/marianzarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
