@@ -1,24 +1,13 @@
-# Hi there 👋
+### About Me
+👋 Hi, I'm a Junior DevOps enthusiast with a keen interest in cloud infrastructure and automation. I'm learning how to build scalable solutions using **Terraform**, **Azure**, and **Docker**. My goal is to streamline development workflows and collaborate effectively using modern tools and practices.
 
-I'm Mariano, a Platform Engineer working with Terrafom, Azure and Azure DevOps.
+### What I Do
+- **Infrastructure as Code (IaC):** Building my skills with **Terraform** to automate cloud resource provisioning and manage infrastructure setups.
+- **Cloud Management:** Gaining experience with **Azure Cloud** services, focusing on designing and implementing secure and scalable cloud solutions.
+- **Continuous Integration/Continuous Deployment (CI/CD):** Learning to use **GitHub** for version control, managing repositories, and setting up CI/CD pipelines.
+- **Containerization:** Developing my expertise with **Docker** for building and deploying containerized applications, helping to create consistent environments across development and production.
 
-
-<!--
-## Stack
-
-<img src="./img/Terraform-003-Badge-300x300.png" width=50> <img src="./img/AZ900-Azure-Fundamentals-logo-300x300.png" width=50>
-
-
-**marianzarg/marianzarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Certifications
+- **Terraform Associate (003)** - Issued by HashiCorp
+- **AZ-900: Microsoft Azure Fundamentals** - Issued by Microsoft
+- **DevOps Foundation (DOFD)®** - Issued by DevOps Institute
